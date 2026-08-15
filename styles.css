@@ -5,11 +5,11 @@
 
 @font-face {
     font-family: 'Paper';
-    src: url(/fonts/notedry/Notedry\ Base.otf);
+    src: url(fonts/notedry/NotedryBase.otf);
 }
 @font-face {
     font-family: 'Normal';
-    src: url(/fonts/Karma\ Suture.otf);
+    src: url(/fonts/KarmaSuture.otf);
 }
 @font-face {
     font-family: 'Header2';
